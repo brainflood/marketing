@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Help with Brainflood itself
+    url: mailto:support@brainflood.com
+    about: This repo is our marketing. For help with the product, email support@brainflood.com.

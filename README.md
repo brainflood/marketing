@@ -1,31 +1,40 @@
-# Brainflood
+```text
+██████╗ ██████╗  █████╗ ██╗███╗   ██╗███████╗██╗      ██████╗  ██████╗ ██████╗
+██╔══██╗██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██║     ██╔═══██╗██╔═══██╗██╔══██╗
+██████╔╝██████╔╝███████║██║██╔██╗ ██║█████╗  ██║     ██║   ██║██║   ██║██║  ██║
+██╔══██╗██╔══██╗██╔══██║██║██║╚██╗██║██╔══╝  ██║     ██║   ██║██║   ██║██║  ██║
+██████╔╝██║  ██║██║  ██║██║██║ ╚████║██║     ███████╗╚██████╔╝╚██████╔╝██████╔╝
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝     ╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝
+```
 
-Brainflood is a platform for people who run game nights at bars, breweries, restaurants, and private events. Trivia, bingo, karaoke, Name That Tune, sports pick'em, tournaments. Plus the TV screens, flyers, websites, and booking tools that go with them.
+# Brainflood Marketing
 
-We build the tools. You run the night.
+Hi. This is Brainflood's marketing, out in the open. Who we are, guides for a better game night, and the posts and videos we make.
 
-## A few things about us
+Brainflood is a platform for people who run game nights at bars, breweries, restaurants, and private events. We build the tools. You run the night.
 
-**We don't take a cut.** Tips, entry fees, prizes, bar tabs. That's your money. We never touch it. Ever.
+## What's in here
 
-**You're the show.** Brainflood handles the busywork: scoring, screens, printing, booking. You hold the mic.
+**[brand/](brand/)** is who we are and what we stand for. Also a cartoon brain in rain boots.
 
-**Paper, phones, or both.** Run your night however your crowd likes it.
+**[guides/](guides/)** is how-tos for hosts and venue owners. Filling the room on a slow Tuesday, that kind of thing.
 
-**Free to start.** The Free plan is a real plan. No credit card, no catch. Kick the tires.
+**[content/](content/)** is our posts, video scripts, and blog pieces.
 
-**Family-friendly.** Bring the kids, bring grandma.
+Some of those shelves are still pretty empty. We're brand new. Check back.
 
-## Meet Brainy McFlood
+## Got a better idea?
 
-Our mascot is Brainy McFlood, a cartoon brain in rain boots, along with a crew of cartoon regulars. Logos, characters, and the Brainflood name belong to Brainflood LLC and aren't covered by this repo's content license.
+Good. We want it.
 
-## Contact
+Spotted a typo, a clunky sentence, or something we got wrong? [Open an issue](https://github.com/brainflood/marketing/issues/new/choose) and tell us. A sentence or two is plenty. If you'd rather fix it yourself, [CONTRIBUTING.md](CONTRIBUTING.md) is the two-minute version of how.
 
-Brainflood LLC  
-784 S. Clearwater Loop # 4640  
-Post Falls, ID 83854
+## Looking for the product?
 
-https://brainflood.com · support@brainflood.com
+It lives at [brainflood.com](https://brainflood.com). The Free plan is a real plan. No credit card.
 
-We're brand new and getting better every day. Come say hi.
+Need a hand with it? Write to support@brainflood.com.
+
+---
+
+Brainflood LLC · 784 S. Clearwater Loop # 4640 · Post Falls, ID 83854
